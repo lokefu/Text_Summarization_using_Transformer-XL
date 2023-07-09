@@ -8,13 +8,11 @@ This is a text summarization program that uses Transformer-XL, a state-of-the-ar
 
    `````
    pip install torch numpy tqdm transformers streamlit re datasets evaluate rouge_score sacremoses
-   ```
 
 2. Download the source code and checkpoints from the GitHub repository:
 
    ````
    git clone [https://github.com/example/text-summarization.git ↗](https://github.com/example/text-summarization.git)
-   ```
 
 ## Usage
 
