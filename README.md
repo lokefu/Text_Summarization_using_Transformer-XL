@@ -19,10 +19,11 @@ This is a text summarization program that uses Transformer-XL, a state-of-the-ar
 To use the program, run the `demo.py` script:
 
 ```
-python demo.py
+streamlit run app.py
+
 ```
 
-The program will prompt you to enter the input text. Once you enter the text, the program will generate a summary and print it to the console.
+This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box.
 
 ## Dataset
 
