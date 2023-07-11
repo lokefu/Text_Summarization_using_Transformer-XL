@@ -38,7 +38,7 @@ To get your own checkpoint, re-train the `model.py` script:
 python model.py
 ```
 
-This will save your own checkpoint.
+This will save your own checkpoint (`best_checkpoint.pt`: model; `best_checkpoint`: tokenizer). There is also a jupyter notebook version of model implementation, `model.ipynb`.
 
 ## Dataset
 
