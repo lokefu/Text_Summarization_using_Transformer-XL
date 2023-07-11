@@ -42,7 +42,8 @@ This will save your own checkpoint (`best_checkpoint.pt`: model; `best_checkpoin
 
 ## Dataset
 
-The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the cnn_dailymail dataset, `train_subset.pt` and `val_subset.pt`.
+The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the pre-processed cnn_dailymail dataset, `train_subset.pt` and `val_subset.pt`. You can also download our pre-processed dataset from `https://drive.google.com/drive/folders/1E6Yk9Z-q2bkrw5MeAhepzaEHjDlBbQEp?usp=drive_link`.
+
 
 ## Acknowledgments
 
