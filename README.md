@@ -24,11 +24,11 @@ https://github.com/lokefu/Text_Summarization_using_Transformer-XL
 
 ## Dataset
 
-The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the pre-processed cnn_dailymail dataset, named with `train_subset.pt` and `val_subset.pt`. As the files exceed the file size limits of GitHub, you need to download our pre-processed dataset from `https://drive.google.com/drive/folders/1E6Yk9Z-q2bkrw5MeAhepzaEHjDlBbQEp?usp=drive_link` before running the code (Remember to put both datasets into the same folder as `model.py` or `model.ipynb`).
+The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the pre-processed cnn_dailymail dataset, named with `train_subset.pt` and `val_subset.pt`. As the files exceed the file size limits of GitHub, you need to download our pre-processed dataset from `https://drive.google.com/drive/folders/1E6Yk9Z-q2bkrw5MeAhepzaEHjDlBbQEp?usp=drive_link` before running the code (Remember to put both datasets, two pt. files into the same folder as `model.py` or `model.ipynb`).
 
 ## Checkpoints
 
-There are two saved checkpoints after our fine-tuning process, `best_checkpoint.pt`: model; `best_checkpoint`: tokenizer. As the files exceed the file size limits of GitHub, you need to download our checkpoints from `link` before running the code (Remember to put both checkpoints into the same folder as `model.py` or `model.ipynb`).
+There are two saved checkpoints after our fine-tuning process, model: a pt. file named with `best_checkpoint.pt`; tokenizer: a folder named with `best_checkpoint`. As the files exceed the file size limits of GitHub, you need to download our checkpoints from `https://drive.google.com/drive/folders/1cvbhKFDuTVUtq-bdQ3A_fvhCHTgkpqd8?usp=sharing` before running the code (Remember to put both checkpoints, one folder and one pt. file into the same folder as `model.py` or `model.ipynb`).
 
 ## Usage
 
