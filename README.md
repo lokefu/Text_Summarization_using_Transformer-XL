@@ -2,6 +2,11 @@
 
 This is a text summarization program that uses Transformer-XL, a state-of-the-art language model developed by Google, for fine-tuning on the summarization task. The code is built on the source code of Transformer-XL, with some functions and modules from the Transformers library used for optimization and other purposes.
 
+## Hyperlink to GitHub
+
+```
+https://github.com/lokefu/Text_Summarization_using_Transformer-XL
+
 ## Installation
 
 1. Install the required libraries:
