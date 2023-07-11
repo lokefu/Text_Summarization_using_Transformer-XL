@@ -23,7 +23,16 @@ streamlit run app.py
 
 ```
 
-This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box.
+This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box. This demo is supported by our checkpoint through fine-tuning.
+
+To get your own checkpoint, re-train the `model.py` script:
+
+```
+python model.py
+
+```
+
+This will save your own checkpoint.
 
 ## Dataset
 
