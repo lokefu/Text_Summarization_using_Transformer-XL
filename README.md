@@ -22,9 +22,13 @@ https://github.com/lokefu/Text_Summarization_using_Transformer-XL
    git clone https://github.com/lokefu/Text_Summarization_using_Transformer-XL.git
    `````
 
+## Dataset
+
+The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the pre-processed cnn_dailymail dataset, named with `train_subset.pt` and `val_subset.pt`. As the files exceed the file size limits of GitHub, you need to download our pre-processed dataset from `https://drive.google.com/drive/folders/1E6Yk9Z-q2bkrw5MeAhepzaEHjDlBbQEp?usp=drive_link` (Remember to put both datasets into the same folder as `model.py` or `model.ipynb`). 
+
 ## Usage
 
-To use the program, run the `demo.py` script:
+To use the program, run the `demo.py` script: (make sure that you have downloaded all the files and folders)
 
 ```
 streamlit run app.py
@@ -32,18 +36,13 @@ streamlit run app.py
 
 This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box. This demo is supported by our checkpoint through fine-tuning.
 
-To get your own checkpoint, re-train the `model.py` script:
+To get your own checkpoint, re-train the `model.py` script: (make sure that you have downloaded all the files and folders and you have downloaded the datasets from the link)
 
 ```
 python model.py
 ```
 
 This will save your own checkpoint (`best_checkpoint.pt`: model; `best_checkpoint`: tokenizer). There is also a jupyter notebook version of model implementation, `model.ipynb`.
-
-## Dataset
-
-The datasets used in this project are included in the repository and were downloaded from Hugging Face in `dataset.ipynb`. The model was fine-tuned specifically on the pre-processed cnn_dailymail dataset, `train_subset.pt` and `val_subset.pt`. You can also download our pre-processed dataset from `https://drive.google.com/drive/folders/1E6Yk9Z-q2bkrw5MeAhepzaEHjDlBbQEp?usp=drive_link` (Remember to put both datasets into the same folder as `model.py` or `model.ipynb`). 
-
 
 ## Acknowledgments
 
