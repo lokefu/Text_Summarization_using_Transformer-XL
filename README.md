@@ -14,11 +14,13 @@ https://github.com/lokefu/Text_Summarization_using_Transformer-XL
 
    `````
    pip install torch numpy tqdm transformers streamlit re datasets evaluate rouge_score sacremoses
+   `````
 
 2. Download the source code and checkpoints from the GitHub repository: (directly download zip or use git)
 
    ````
    git clone https://github.com/lokefu/Text_Summarization_using_Transformer-XL.git
+   `````
 
 ## Usage
 
@@ -26,7 +28,6 @@ To use the program, run the `demo.py` script:
 
 ```
 streamlit run app.py
-
 ```
 
 This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box. This demo is supported by our checkpoint through fine-tuning.
@@ -35,7 +36,6 @@ To get your own checkpoint, re-train the `model.py` script:
 
 ```
 python model.py
-
 ```
 
 This will save your own checkpoint.
