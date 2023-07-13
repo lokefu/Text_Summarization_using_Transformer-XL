@@ -56,6 +56,17 @@ This project builds on the source code of Transformer-XL, which was developed by
 
 This project is licensed under the terms of the course license and is intended for educational use only. Redistribution and commercial use of this project are strictly prohibited.
 
+## Contribution
+
+Fu Yicheng, Loke (Group Coordination):
+	My role was coordinating the project, ensuring that each team member was on track to complete their assigned tasks, providing support as needed, and overseeing the project's progress. In addition, I provided detailed and well-formatted code templates in Python files for each part of the project, making it easier for the team to work with and debug the code.
+
+	Regarding the data part, I provided valuable input on data cleaning and preprocessing, which helped ensure that the dataset was properly prepared for training the Transformer-XL model. For the model part, I gave useful feedback on the Transformer-XL model architecture and fine-tuning script, which helped refine the model and improve its accuracy. As for the demo part, I contributed by providing valuable input on the design and functionality of the demo, ensuring that it met the requirements and was user-friendly.
+
+	Overall, my contributions helped the team work more efficiently and effectively. I also contributed to the coding parts beyond providing Py files, including debugging, explaining the code, and other related coding tasks that helped ensure the project's success. I participated in almost all of the code work for the model part and most of the code work for the data and demo parts. Lastly, I created the official GitHub website, including the README.md file for our project.
+
+
+
 ## Contact
 
 If you have any questions or comments about this project, please contact us at lokefu@hku.hk.
