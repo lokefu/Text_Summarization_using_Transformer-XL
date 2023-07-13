@@ -63,6 +63,12 @@ This project is licensed under the terms of the course license and is intended f
    Regarding the data part, I provided valuable input on data cleaning and preprocessing, which helped ensure that the dataset was properly prepared for training the Transformer-XL model. For the model part, I gave useful feedback on the Transformer-XL model architecture and fine-tuning script, which helped refine the model and improve its accuracy. As for the demo part, I contributed by providing valuable input on the design and functionality of the demo, ensuring that it met the requirements and was user-friendly.
    Overall, my contributions helped the team work more efficiently and effectively. I also contributed to the coding parts beyond providing Py files, including debugging, explaining the code, and other related coding tasks that helped ensure the project's success. I participated in almost all of the code work for the model part and most of the code work for the data and demo parts. Lastly, I created the official GitHub website, including the README.md file for our project.
 
+2. (Dataset):
+
+3. (Model):
+
+4. (Demo):
+
 
 
 ## Contact
