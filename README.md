@@ -35,10 +35,12 @@ There are two saved checkpoints after our fine-tuning process, model: a pt. file
 To use the program, run the `demo.py` script: (make sure that you have downloaded all the files and folders)
 
 ```
-streamlit run app.py
+streamlit run demo.py
 ```
 
-This will start the Streamlit app and open it in your default web browser. The program will prompt you to enter the input text. You can then enter some text to summarize and click the "Summarize" button to generate a summary. The generated summary will be displayed in a stylized summary box. This demo is supported by our checkpoint through fine-tuning.
+This will prompt the Streamlit app to start. The text summarization webpage will automatically be opened in your default web browser. You can then enter a long passage in the text box  and click the "Summarize" button to generate a summary. The generated summary will be displayed below the input text box. This demo is supported by our checkpoint through fine-tuning.
+
+You can expand the "Text Summarization Histories" section to check previous and recent summaries. You can also download the summaries in a .txt file.
 
 To get your own checkpoint, re-train the `model.py` script: (make sure that you have downloaded all the files and folders and you have downloaded the datasets from the link)
 
