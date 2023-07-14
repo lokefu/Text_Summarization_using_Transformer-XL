@@ -50,6 +50,10 @@ python model.py
 
 This will save your own checkpoint (`best_checkpoint.pt`: model; `best_checkpoint`: tokenizer). There is also a jupyter notebook version of model implementation, `model.ipynb`.
 
+## Demo Video
+
+You can see the example demo video for how to play with the demo from `https://drive.google.com/file/d/15IiycvjYWPPodRHQXw8UDTy8CaijIyve/view?usp=sharing`, as the files exceed the file size limits of GitHub.
+
 ## Acknowledgments
 
 This project builds on the source code of Transformer-XL, which was developed by the Google Brain team. We also use some functions and modules from the Transformers library, developed by Hugging Face, for optimization and other purposes. We would also like to thank Professor Wingyan Chung and TA Yinqiang Zhang for their guidance and support throughout the development of this project.
