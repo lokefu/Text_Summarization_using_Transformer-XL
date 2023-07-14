@@ -52,7 +52,7 @@ This will save your own checkpoint (`best_checkpoint.pt`: model; `best_checkpoin
 
 ## Demo Video
 
-You can see the example demo video for how to play with the demo from `https://drive.google.com/file/d/15IiycvjYWPPodRHQXw8UDTy8CaijIyve/view?usp=sharing`, as the files exceed the file size limits of GitHub.
+You can see the example demo video for how to play with the demo from `https://drive.google.com/file/d/15IiycvjYWPPodRHQXw8UDTy8CaijIyve/view?usp=sharing`, as the file exceeds the file size limits of GitHub.
 
 ## Acknowledgments
 
