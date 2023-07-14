@@ -65,13 +65,14 @@ This project is licensed under the terms of the course license and is intended f
 
    Overall, my contributions helped the team work more efficiently and effectively. I also contributed to the coding parts beyond providing Py files, including debugging, explaining the code, and other related coding tasks that helped ensure the project's success. I participated in almost all of the code work for the model part and most of the code work for the data and demo parts. Lastly, I created the official GitHub website, including the README.md file for our project, with all member's help.
 
-3. (Dataset):
+3. Lai Wai Yuet (Dataset):
+   As the member responsible for the dataset, I worked on preparing and preprocessing the data to ensure that it was properly formatted and ready for input into the Transformer-XL model. This involved cleaning the data, converting it into a suitable format, and handling any issues that arose.
 
-4. (Model):
+5. Miao Yan (Model):
+   My primary responsibility was developing and fine-tuning the Transformer-XL model for text summarization. This involved extensive experimentation with different model architectures, hyperparameters, and training strategies to optimize the model's performance. I also trained the model on the preprocessed dataset and evaluated its performance on a validation set, using a range of metrics to assess its accuracy and effectiveness.
 
-5. (Demo):
-
-
+7. Mok Oi Ying (Demo):
+   As the member responsible for the demo, I contributed to the coding of the demo part and added user-friendly features to improve the overall user experience. This involved designing and implementing a user interface that was intuitive and easy to use to improve the robustness of the demo. Additionally, I created a demo video to showcase the functionality of the Transformer-XL model and how it can be used for text summarization.
 
 ## Contact
 
