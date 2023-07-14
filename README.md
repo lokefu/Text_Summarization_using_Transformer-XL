@@ -13,7 +13,7 @@ https://github.com/lokefu/Text_Summarization_using_Transformer-XL
 1. Install the required libraries:
 
    `````
-   pip install torch numpy tqdm transformers streamlit re datasets evaluate rouge_score sacremoses
+   pip install torch numpy tqdm transformers streamlit==1.24.0 re datasets evaluate rouge_score sacremoses pandas==2.0.2 streamlit-state==0.1.0 base64
    `````
 
 2. Download the source code and checkpoints from the GitHub repository: (directly download zip or use git)
