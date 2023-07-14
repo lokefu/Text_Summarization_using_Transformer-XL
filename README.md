@@ -38,7 +38,7 @@ To use the program, run the `demo.py` script: (make sure that you have downloade
 streamlit run demo.py
 ```
 
-This will prompt the Streamlit app to start. The text summarization webpage will automatically be opened in your default web browser. You can then enter a long passage in the text box  and click the "Summarize" button to generate a summary. The generated summary will be displayed below the input text box. This demo is supported by our checkpoint through fine-tuning.
+This will prompt the Streamlit app to start. The text summarization webpage will automatically be opened in your default web browser. You can then enter a long passage in the text box  and click the "Summarize" button to generate a summary. The generated summary will be displayed below the input text box. This demo is supported by our fine-tuned checkpoint.
 
 You can expand the "Text Summarization Histories" section to check previous and recent summaries. You can also download the summaries in a .txt file.
 
