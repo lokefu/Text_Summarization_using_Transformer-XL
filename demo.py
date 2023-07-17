@@ -5,8 +5,6 @@ import base64
 from tokenization_transfo_xl import *
 from modeling_transfo_xl import *
 from modeling_transfo_xl_utilities import *
-from modeling_tf_transfo_xl import *
-from modeling_tf_transfo_xl_utilities import *
 
 # Load the saved model checkpoint and tokenizer from the `best_checkpoint.pt` file and `best_checkpoint` directory, respectively
 model_state_dict = torch.load('best_checkpoint.pt')
